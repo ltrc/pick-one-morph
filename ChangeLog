@@ -1,0 +1,13 @@
+23-09-2008  Avinesh PVS  <avinesh@students.iiit.ac.in>,<avinesh.pvs@gmail.com>
+
+	* Version 1.1
+
+	1. Include Makefile for copying and installation.
+	2. improve the directory structure as per ilmt_guideline_0.3 except application logging and code review.
+
+18-09-2008  Avinesh PVS  <avinesh@students.iiit.ac.in>,<avinesh.pvs@gmail.com>
+
+	* Version 1.0
+
+	1. Keeps the first feature structure as default.
+	
